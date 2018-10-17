@@ -1,5 +1,9 @@
 # GrabNYTimesNew
 
+
+Check Out the screenshots in the end of readme
+
+
 Prerequisites:
 
 X-Code 9.3-compatible
