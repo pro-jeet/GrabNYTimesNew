@@ -33,3 +33,14 @@ Different functionailities in the project:
 5. Side Menu is added for adding menu options in the future.
 
 6. Unit tests and uitests are on the way.
+
+
+![alt text](https://github.com/pro-jeet/GrabNYTimesNew/blob/master/Main.png)
+
+![alt text](https://github.com/pro-jeet/GrabNYTimesNew/blob/master/FullArticle.png)
+
+![alt text](https://github.com/pro-jeet/GrabNYTimesNew/blob/master/Refresh.png)
+
+![alt text](https://github.com/pro-jeet/GrabNYTimesNew/blob/master/menu.png)
+
+![alt text](https://github.com/pro-jeet/GrabNYTimesNew/blob/master/search.png)
