@@ -40,7 +40,7 @@ Different functionailities in the project:
 
 5. Side Menu is added for adding menu options in the future.
 
-6. Unit tests and uitests are on the way.
+6. Unit tests added and uitests are on the way.
 
 
 ![alt text](https://github.com/pro-jeet/GrabNYTimesNew/blob/master/Main.png)
