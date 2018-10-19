@@ -8,6 +8,10 @@ Prerequisites:
 
 X-Code 9.3-compatible
 iOS DEPLOYMENT TARGET 11+
+
+Used Swift 4
+Used Pods -> SidebarOverlay', 'ReachabilitySwift', 'NVActivityIndicatorView', 'SDWebImage', '~> 4.0'
+
 Requires Valid apple id to run the project (Change bundle idenitfier if you need to test with your apple id or send me a request to add your id in development team).
 
 After downloading the project follow the steps:
