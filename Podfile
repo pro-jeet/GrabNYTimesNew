@@ -10,5 +10,13 @@ target 'GrabNYTimes' do
   pod 'ReachabilitySwift'
   pod 'NVActivityIndicatorView'
   pod 'SDWebImage', '~> 4.0'
+end
+
+target 'GrabNYTimesTests' do
+      
+  pod 'SidebarOverlay'
+  pod 'ReachabilitySwift'
+  pod 'NVActivityIndicatorView'
+  pod 'SDWebImage', '~> 4.0'
 
 end

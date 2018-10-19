@@ -53,6 +53,7 @@ class TopViewController: UIViewController, UITableViewDataSource, UITableViewDel
         if (SharedManager.shared.isInternetConnectivityAvailable() == false) { return
         } else {
             
+            print(ProcessInfo.processInfo.environment)
                 self.showAnimatingIndicator()
                 DispatchQueue.global(qos: .userInitiated).async
                     {

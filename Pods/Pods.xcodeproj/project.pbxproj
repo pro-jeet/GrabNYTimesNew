@@ -62,12 +62,14 @@
 		760CB177375818DA9C713EFBE46C8767 /* SDWebImageDownloaderOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D693B6B9FB79CCC5D278ACD3A178E0B /* SDWebImageDownloaderOperation.m */; };
 		7635AA497BB23D10AA864281223A988B /* SidebarOverlay-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B91B15FEADFD91F7F3F0C0A43C7559E9 /* SidebarOverlay-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7799F09B02C1B0A8E9E1A13EA4C464A9 /* Reachability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3353E15A454F3E9DDEB9889C58E25E5D /* Reachability.swift */; };
-		7AA0F3DCBA28C41F8A3531E1368562AF /* Pods-GrabNYTimes-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7BAC071F891997184C198B6992D825C9 /* Pods-GrabNYTimes-dummy.m */; };
+		7AA0F3DCBA28C41F8A3531E1368562AF /* Pods-GrabNYTimes-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = A5217211371AA4CA76F6DD12A46D5E2D /* Pods-GrabNYTimes-dummy.m */; };
 		7BE2990162FCA91A3929717AFF258668 /* NVActivityIndicatorAnimationBallGridBeat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 739BD9A48C12341F14EE9591F882850C /* NVActivityIndicatorAnimationBallGridBeat.swift */; };
 		7E93321386B640370ABF9499CFFDE3B4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 385BD7364806D5D46B4CFF9380A9656C /* Foundation.framework */; };
 		7F58A8C20F91B916CBA8049B6D5D66E0 /* UIImageView+HighlightedWebCache.m in Sources */ = {isa = PBXBuildFile; fileRef = BEE5B33D7C1310689E39F38991AA4CC9 /* UIImageView+HighlightedWebCache.m */; };
+		806AD91917D8E29258CF9CEF8297C610 /* Pods-GrabNYTimesTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 8037758230BC3CECE33A0C2199438D03 /* Pods-GrabNYTimesTests-dummy.m */; };
 		84C37FD8814143531908242803A8F56D /* SDWebImageCodersManager.h in Headers */ = {isa = PBXBuildFile; fileRef = BD8305AEB495A13F9C2E7D1807283573 /* SDWebImageCodersManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		8715809983F078F2BA1581555DBEDE60 /* Pods-GrabNYTimes-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 19D78C839646206AE5E52982638478FE /* Pods-GrabNYTimes-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		861E4B322963330E64455271BC9D69C2 /* Pods-GrabNYTimesTests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 2AC334D9ECAA1E5F4D668EBC2A7E1522 /* Pods-GrabNYTimesTests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		8715809983F078F2BA1581555DBEDE60 /* Pods-GrabNYTimes-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A5A3DB4847E2ADDBAA214A69C644B409 /* Pods-GrabNYTimes-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		89D338E46DA8A159EC1A49D48C8DA072 /* NVActivityIndicatorAnimationBlank.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11A43D9EDBF8A17222A71EE07003441F /* NVActivityIndicatorAnimationBlank.swift */; };
 		89F23F0C2E404968B108CB109AA9300D /* SDImageCache.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C42942D9EB0243B9E7A6043AE2E40E8 /* SDImageCache.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8CF5FEC423923B1B9FC1F0ACE85A3F06 /* NVActivityIndicatorAnimationBallPulse.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7F0FCB8650377DD5CD862B61BBD392A /* NVActivityIndicatorAnimationBallPulse.swift */; };
@@ -85,6 +87,7 @@
 		AEF17AB1AF415A3491C0318D5F0C8AA5 /* NVActivityIndicatorAnimationBallScale.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F7DB046E362E54CB222C7DC8141B9C6 /* NVActivityIndicatorAnimationBallScale.swift */; };
 		AF40F02F7599B203CE8EFF2B0D8ABC90 /* UIView+WebCacheOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 6FE94B1CF9D0C81E164453F76F77C765 /* UIView+WebCacheOperation.m */; };
 		B582D38A6B10AA4A48ECBB6852CA1D8D /* UIImage+MultiFormat.h in Headers */ = {isa = PBXBuildFile; fileRef = B615935DEA8D18D81C86E2798A034289 /* UIImage+MultiFormat.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		B93ED74E31EA40018C0EB58BA4B2521B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 385BD7364806D5D46B4CFF9380A9656C /* Foundation.framework */; };
 		BC4D68F4AB51DEA8744888161D135288 /* SDWebImageCoderHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BB179EA752B6772D20B015DC64EDFD4 /* SDWebImageCoderHelper.m */; };
 		C00EC191ADE1626350833F691CF50F1B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 385BD7364806D5D46B4CFF9380A9656C /* Foundation.framework */; };
 		C0ECBEF6859B2F3CEB8285AABB087446 /* NVActivityIndicatorView-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 47B64671C4227E1E59204D7D966107FB /* NVActivityIndicatorView-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -125,12 +128,26 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
+		613F1E03B17BA29EBAA8D181B448554B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E6D62619402EFE05C0858376F273FCE4;
+			remoteInfo = ReachabilitySwift;
+		};
 		61F7208BE7C0F5023C42DDAE01A6F12E /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 9E5FD31BD1B6EA4C731ABBF43B54927A;
 			remoteInfo = SDWebImage;
+		};
+		6ABC02A283F37F210677ABFBE7B1CB9E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 123F89F7E8DB3444EAD2F61E835952E2;
+			remoteInfo = NVActivityIndicatorView;
 		};
 		972520450BB42CA9CDD8120B237C9C6B /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -146,6 +163,20 @@
 			remoteGlobalIDString = E6D62619402EFE05C0858376F273FCE4;
 			remoteInfo = ReachabilitySwift;
 		};
+		9E94E7BD64CE2890BD363C67EECF7E76 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9E5FD31BD1B6EA4C731ABBF43B54927A;
+			remoteInfo = SDWebImage;
+		};
+		A939E4A0AC3D9FA88D465E69E056AF95 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9B2113D8F2A97C6D86A21E2379916E9A;
+			remoteInfo = SidebarOverlay;
+		};
 		B6AF26201F8353F597B10B6ECB5635E4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
@@ -159,44 +190,47 @@
 		005DC27E65B87B83868DFC22F259F84D /* SDImageCacheConfig.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDImageCacheConfig.h; path = SDWebImage/SDImageCacheConfig.h; sourceTree = "<group>"; };
 		084AE0FD101F9E88B9D2A8699408918D /* NVActivityIndicatorAnimationBallScaleRippleMultiple.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NVActivityIndicatorAnimationBallScaleRippleMultiple.swift; path = Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationBallScaleRippleMultiple.swift; sourceTree = "<group>"; };
 		085CE7578AC33E9A6EB814A1AE1610B2 /* SDWebImagePrefetcher.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDWebImagePrefetcher.m; path = SDWebImage/SDWebImagePrefetcher.m; sourceTree = "<group>"; };
-		0B6518EDDE8557B33866A405E4201703 /* SidebarOverlay.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SidebarOverlay.framework; path = SidebarOverlay.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		0EBB8525AC959B13CCDA0496255D1190 /* SDWebImageManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImageManager.h; path = SDWebImage/SDWebImageManager.h; sourceTree = "<group>"; };
+		1045B8271C3DFF917791B7CA0392626D /* NVActivityIndicatorView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = NVActivityIndicatorView.framework; path = NVActivityIndicatorView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		10AC723C93B49AAB01C66D83B2C0072F /* NVActivityIndicatorAnimationBallGridPulse.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NVActivityIndicatorAnimationBallGridPulse.swift; path = Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationBallGridPulse.swift; sourceTree = "<group>"; };
 		10CE73FD04D8B1C178E24B9CC8D113C5 /* UIImage+MultiFormat.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+MultiFormat.m"; path = "SDWebImage/UIImage+MultiFormat.m"; sourceTree = "<group>"; };
 		11A43D9EDBF8A17222A71EE07003441F /* NVActivityIndicatorAnimationBlank.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NVActivityIndicatorAnimationBlank.swift; path = Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationBlank.swift; sourceTree = "<group>"; };
 		12188116AB4D36242515568B1C65A904 /* NVActivityIndicatorAnimationBallClipRotateMultiple.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NVActivityIndicatorAnimationBallClipRotateMultiple.swift; path = Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationBallClipRotateMultiple.swift; sourceTree = "<group>"; };
-		155EAF7D0846C98F62920ED768532DC5 /* NVActivityIndicatorView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = NVActivityIndicatorView.framework; path = NVActivityIndicatorView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		13E008059A9205953AF4FB105BA43AD2 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		15B801BECD7B4F08E0A4752E7084F236 /* Pods_GrabNYTimesTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_GrabNYTimesTests.framework; path = "Pods-GrabNYTimesTests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		166D652322800B6880EC5183E55878A7 /* NVActivityIndicatorAnimationLineScaleParty.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NVActivityIndicatorAnimationLineScaleParty.swift; path = Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationLineScaleParty.swift; sourceTree = "<group>"; };
 		170CD257FE9024559D2A53B918DF3464 /* SDWebImageCoderHelper.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImageCoderHelper.h; path = SDWebImage/SDWebImageCoderHelper.h; sourceTree = "<group>"; };
 		1873D4EA0672FF48E25A163C772F181C /* UIImageView+HighlightedWebCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImageView+HighlightedWebCache.h"; path = "SDWebImage/UIImageView+HighlightedWebCache.h"; sourceTree = "<group>"; };
-		19D78C839646206AE5E52982638478FE /* Pods-GrabNYTimes-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-GrabNYTimes-umbrella.h"; sourceTree = "<group>"; };
 		1E4BA6EA2578AFA58DC1EE299EA89440 /* UIImage+ForceDecode.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+ForceDecode.m"; path = "SDWebImage/UIImage+ForceDecode.m"; sourceTree = "<group>"; };
+		22C19CF0838BDABEF4DC51985A6BCF71 /* Reachability.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Reachability.framework; path = ReachabilitySwift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		24989B5624DA1E7CD618CFE4D16C8CB1 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
 		2658EE0E6F406D50D28542D37B2FB7B5 /* NVActivityIndicatorAnimationDelegate.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NVActivityIndicatorAnimationDelegate.swift; path = Source/NVActivityIndicatorView/NVActivityIndicatorAnimationDelegate.swift; sourceTree = "<group>"; };
 		26EC6F7779B00F1EF2CCAA8692E1ECE9 /* NVActivityIndicatorAnimationBallClipRotatePulse.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NVActivityIndicatorAnimationBallClipRotatePulse.swift; path = Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationBallClipRotatePulse.swift; sourceTree = "<group>"; };
 		28B2455FD7A4E0EC7E54DA379F0340D5 /* SDWebImageManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDWebImageManager.m; path = SDWebImage/SDWebImageManager.m; sourceTree = "<group>"; };
-		2A601C2CD73A2095D672C388B3DDB260 /* Pods-GrabNYTimes.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-GrabNYTimes.debug.xcconfig"; sourceTree = "<group>"; };
+		2AC334D9ECAA1E5F4D668EBC2A7E1522 /* Pods-GrabNYTimesTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-GrabNYTimesTests-umbrella.h"; sourceTree = "<group>"; };
+		2B9B09DC9295355776B272A11E8E441A /* Pods-GrabNYTimesTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-GrabNYTimesTests.debug.xcconfig"; sourceTree = "<group>"; };
 		2D693B6B9FB79CCC5D278ACD3A178E0B /* SDWebImageDownloaderOperation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDWebImageDownloaderOperation.m; path = SDWebImage/SDWebImageDownloaderOperation.m; sourceTree = "<group>"; };
 		2EFE47F074846AD954883C0E1E98A84B /* SDAnimatedImageRep.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDAnimatedImageRep.m; path = SDWebImage/SDAnimatedImageRep.m; sourceTree = "<group>"; };
-		300B0D26126B35744F82ECA5AC3EB2B4 /* Pods_GrabNYTimes.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_GrabNYTimes.framework; path = "Pods-GrabNYTimes.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		30E9A1D78791FA394FF5C5D762C4E306 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/SystemConfiguration.framework; sourceTree = DEVELOPER_DIR; };
+		3181F58C172E07B853DC15D85F9DB8C6 /* Pods-GrabNYTimesTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-GrabNYTimesTests.release.xcconfig"; sourceTree = "<group>"; };
 		31E7D2338586D1D98FAE1FBDDDC5A641 /* SDWebImageTransition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImageTransition.h; path = SDWebImage/SDWebImageTransition.h; sourceTree = "<group>"; };
+		31E870DC032F3B516556BBE53BF28C27 /* Pods-GrabNYTimes.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-GrabNYTimes.modulemap"; sourceTree = "<group>"; };
 		3353E15A454F3E9DDEB9889C58E25E5D /* Reachability.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Reachability.swift; path = Sources/Reachability.swift; sourceTree = "<group>"; };
 		377AC1358EA4E1BF5B5D4EC17AC3F764 /* UIImageView+WebCache.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImageView+WebCache.m"; path = "SDWebImage/UIImageView+WebCache.m"; sourceTree = "<group>"; };
 		385BD7364806D5D46B4CFF9380A9656C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		3985B6A8C4541F1F6A8ECD8BF3327928 /* NVActivityIndicatorView-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NVActivityIndicatorView-prefix.pch"; sourceTree = "<group>"; };
+		3CEE924838533C4171A2693C32DB3DB5 /* Pods-GrabNYTimesTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-GrabNYTimesTests-acknowledgements.plist"; sourceTree = "<group>"; };
 		3F1C8D649D009A8CCB13E288F933A380 /* SDWebImageDownloader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImageDownloader.h; path = SDWebImage/SDWebImageDownloader.h; sourceTree = "<group>"; };
 		4176B88668B40984E658E0C2F109BD97 /* SOSide.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SOSide.swift; path = Source/SOSide.swift; sourceTree = "<group>"; };
 		432168C75EAF65955A8FE2BD3B1D8EBB /* UIImage+ForceDecode.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+ForceDecode.h"; path = "SDWebImage/UIImage+ForceDecode.h"; sourceTree = "<group>"; };
 		43313A4485AEA39B89DBF3CE2F71C84B /* NVActivityIndicatorView-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "NVActivityIndicatorView-dummy.m"; sourceTree = "<group>"; };
+		444158437AB16FC67B33365570C8EEA5 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		449A80A5450DE76BB45600327A4373E0 /* ReachabilitySwift-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ReachabilitySwift-prefix.pch"; sourceTree = "<group>"; };
-		46F8B7302DF7F0C7EF4CBF9493D632E6 /* SDWebImage.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SDWebImage.framework; path = SDWebImage.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		475D64BB18C5BB091A687597C28E4ED9 /* Pods-GrabNYTimes-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-GrabNYTimes-frameworks.sh"; sourceTree = "<group>"; };
 		4786BBCE078E62A58F567FEB283DE76F /* NVActivityIndicatorAnimationBallPulseSync.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NVActivityIndicatorAnimationBallPulseSync.swift; path = Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationBallPulseSync.swift; sourceTree = "<group>"; };
 		47B64671C4227E1E59204D7D966107FB /* NVActivityIndicatorView-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NVActivityIndicatorView-umbrella.h"; sourceTree = "<group>"; };
 		4815FFAE4AAEBDD20A6E59A32F5C1A51 /* NSData+ImageContentType.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSData+ImageContentType.m"; path = "SDWebImage/NSData+ImageContentType.m"; sourceTree = "<group>"; };
 		495102FC4C4733785C732D85BC1C0BDA /* SidebarOverlay.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SidebarOverlay.xcconfig; sourceTree = "<group>"; };
-		4A6DC442F92A885582BFFDD8E6262D9D /* Pods-GrabNYTimes-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-GrabNYTimes-acknowledgements.markdown"; sourceTree = "<group>"; };
+		4A7369CB20C7C19DE4941645891BD528 /* SDWebImage.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SDWebImage.framework; path = SDWebImage.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B8EB4734C6CC87B332EA5448CCA1086 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4D8954F0EC854369162CEC1EF4467CCE /* ReachabilitySwift.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = ReachabilitySwift.modulemap; sourceTree = "<group>"; };
 		4D990F3FF39F919423BCF4FC5B8214A0 /* UIView+WebCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIView+WebCache.h"; path = "SDWebImage/UIView+WebCache.h"; sourceTree = "<group>"; };
@@ -204,9 +238,10 @@
 		4EA76986AA266DB24C2D194CFE6737DE /* SDWebImageCoder.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDWebImageCoder.m; path = SDWebImage/SDWebImageCoder.m; sourceTree = "<group>"; };
 		4F7011D2B3A4B4DA40A631F4E1E32E5F /* SDWebImageFrame.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImageFrame.h; path = SDWebImage/SDWebImageFrame.h; sourceTree = "<group>"; };
 		50AD99B78B83C49FED8589DE1BC94D3A /* NVActivityIndicatorAnimationPacman.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NVActivityIndicatorAnimationPacman.swift; path = Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationPacman.swift; sourceTree = "<group>"; };
+		52C0181C4FA27C1311A551E14F9DD92E /* Pods-GrabNYTimesTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-GrabNYTimesTests.modulemap"; sourceTree = "<group>"; };
 		53FA33EAD52F426D276D170EA054F0B8 /* UIButton+WebCache.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIButton+WebCache.m"; path = "SDWebImage/UIButton+WebCache.m"; sourceTree = "<group>"; };
+		54EE3C755DD87CD164D660C46DCC7BA2 /* Pods-GrabNYTimes-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-GrabNYTimes-acknowledgements.markdown"; sourceTree = "<group>"; };
 		54F24ABB392001FB57FB32D9B4B2C981 /* SDImageCache.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDImageCache.m; path = SDWebImage/SDImageCache.m; sourceTree = "<group>"; };
-		5502712BFAEBB72C99D5C43D4DB8AB23 /* Reachability.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Reachability.framework; path = ReachabilitySwift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		56184564DDF165940203D386C47701DD /* SOContainerViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SOContainerViewController.swift; path = Source/SOContainerViewController.swift; sourceTree = "<group>"; };
 		5A169070361138CFF15767B0205DA052 /* NVActivityIndicatorAnimationLineScalePulseOutRapid.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NVActivityIndicatorAnimationLineScalePulseOutRapid.swift; path = Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationLineScalePulseOutRapid.swift; sourceTree = "<group>"; };
 		5ACFFE2A37964ED0931BA747F9B6FAF3 /* NVActivityIndicatorAnimationBallSpinFadeLoader.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NVActivityIndicatorAnimationBallSpinFadeLoader.swift; path = Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationBallSpinFadeLoader.swift; sourceTree = "<group>"; };
@@ -226,12 +261,13 @@
 		72E3CEC555586C092297189C89D77037 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		739BD9A48C12341F14EE9591F882850C /* NVActivityIndicatorAnimationBallGridBeat.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NVActivityIndicatorAnimationBallGridBeat.swift; path = Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationBallGridBeat.swift; sourceTree = "<group>"; };
 		77DBA2FFF2A409ED570195E9438775CC /* SidebarOverlay-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SidebarOverlay-dummy.m"; sourceTree = "<group>"; };
-		788E620FD164DD22AF7261136959D64F /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		7BAC071F891997184C198B6992D825C9 /* Pods-GrabNYTimes-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-GrabNYTimes-dummy.m"; sourceTree = "<group>"; };
+		78B6F4F85868C67137748E1E49A0C231 /* SidebarOverlay.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SidebarOverlay.framework; path = SidebarOverlay.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		7C42942D9EB0243B9E7A6043AE2E40E8 /* SDImageCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDImageCache.h; path = SDWebImage/SDImageCache.h; sourceTree = "<group>"; };
 		7ED6D111527382522F66D91A67520B8C /* NVActivityIndicatorAnimationTriangleSkewSpin.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NVActivityIndicatorAnimationTriangleSkewSpin.swift; path = Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationTriangleSkewSpin.swift; sourceTree = "<group>"; };
 		7F7DB046E362E54CB222C7DC8141B9C6 /* NVActivityIndicatorAnimationBallScale.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NVActivityIndicatorAnimationBallScale.swift; path = Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationBallScale.swift; sourceTree = "<group>"; };
 		7FA3E696DB37A622D3F87C0D1EC84D0A /* NSButton+WebCache.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSButton+WebCache.m"; path = "SDWebImage/NSButton+WebCache.m"; sourceTree = "<group>"; };
+		8037758230BC3CECE33A0C2199438D03 /* Pods-GrabNYTimesTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-GrabNYTimesTests-dummy.m"; sourceTree = "<group>"; };
+		807F8E805835A7280609F3D5604A4E67 /* Pods-GrabNYTimes.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-GrabNYTimes.debug.xcconfig"; sourceTree = "<group>"; };
 		81C59BCA3BC15E74FE268EDE31986F49 /* SDImageCacheConfig.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDImageCacheConfig.m; path = SDWebImage/SDImageCacheConfig.m; sourceTree = "<group>"; };
 		81E153258BB8169E35FBCB5BDB6C552C /* SDWebImageFrame.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDWebImageFrame.m; path = SDWebImage/SDWebImageFrame.m; sourceTree = "<group>"; };
 		85ACA76C2A6887034F605125F4CC82D7 /* NVActivityIndicatorAnimationAudioEqualizer.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NVActivityIndicatorAnimationAudioEqualizer.swift; path = Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationAudioEqualizer.swift; sourceTree = "<group>"; };
@@ -242,20 +278,25 @@
 		8A87C54718B61E2074E9F19A5AC62F79 /* NVActivityIndicatorView.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = NVActivityIndicatorView.modulemap; sourceTree = "<group>"; };
 		8AE0BB59822366D5892F8BF35F67A8F4 /* NVActivityIndicatorAnimationBallScaleRipple.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NVActivityIndicatorAnimationBallScaleRipple.swift; path = Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationBallScaleRipple.swift; sourceTree = "<group>"; };
 		8B58111ED993C69A4A736554DB8B0E81 /* SDWebImage-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SDWebImage-dummy.m"; sourceTree = "<group>"; };
+		8BC54C00B9F55C8746516B9DBD2E16B2 /* Pods-GrabNYTimes-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-GrabNYTimes-frameworks.sh"; sourceTree = "<group>"; };
 		8D455AD601A1BAB04170C958CBACC5A8 /* NVActivityIndicatorAnimationBallBeat.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NVActivityIndicatorAnimationBallBeat.swift; path = Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationBallBeat.swift; sourceTree = "<group>"; };
 		8FAB32BCF49CEC47E73CFF29953C0910 /* NSImage+WebCache.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSImage+WebCache.m"; path = "SDWebImage/NSImage+WebCache.m"; sourceTree = "<group>"; };
+		901348A30A36447FB413F498098FF4E2 /* Pods_GrabNYTimes.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_GrabNYTimes.framework; path = "Pods-GrabNYTimes.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		905935CFD5772F847B1E0C7949619B31 /* SDWebImageImageIOCoder.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDWebImageImageIOCoder.m; path = SDWebImage/SDWebImageImageIOCoder.m; sourceTree = "<group>"; };
 		9174B6E50F33FAC93CA2CBCC77E1FB65 /* NVActivityIndicatorPresenter.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NVActivityIndicatorPresenter.swift; path = Source/NVActivityIndicatorView/Presenter/NVActivityIndicatorPresenter.swift; sourceTree = "<group>"; };
 		92450E3350F2380F2BFFA3F5D0B6D42F /* UIButton+WebCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIButton+WebCache.h"; path = "SDWebImage/UIButton+WebCache.h"; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		97B37E23586798FDE7F5DD79227BCA67 /* NVActivityIndicatorViewable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NVActivityIndicatorViewable.swift; path = Source/NVActivityIndicatorView/Presenter/NVActivityIndicatorViewable.swift; sourceTree = "<group>"; };
 		9C0F17901AD8B3AF71870EC9EBB76EB9 /* NVActivityIndicatorAnimationBallScaleMultiple.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NVActivityIndicatorAnimationBallScaleMultiple.swift; path = Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationBallScaleMultiple.swift; sourceTree = "<group>"; };
+		9C16A96B5F56E579D4D8E4A44E4B4123 /* Pods-GrabNYTimes-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-GrabNYTimes-resources.sh"; sourceTree = "<group>"; };
 		9C255931B801270DB51AFA95FA769110 /* NVActivityIndicatorAnimationLineScale.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NVActivityIndicatorAnimationLineScale.swift; path = Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationLineScale.swift; sourceTree = "<group>"; };
+		9C8DA834EE9839C0BAD822C107199559 /* Pods-GrabNYTimesTests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-GrabNYTimesTests-frameworks.sh"; sourceTree = "<group>"; };
 		A2800422502406E3A4E80A079C11A5C7 /* SDWebImageGIFCoder.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImageGIFCoder.h; path = SDWebImage/SDWebImageGIFCoder.h; sourceTree = "<group>"; };
 		A30851D01C6D1D61E88BFD44FD978B0D /* SDWebImagePrefetcher.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImagePrefetcher.h; path = SDWebImage/SDWebImagePrefetcher.h; sourceTree = "<group>"; };
 		A450BD7EA2C34FC987F0860CFFEAF7B7 /* NVActivityIndicatorView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NVActivityIndicatorView.swift; path = Source/NVActivityIndicatorView/NVActivityIndicatorView.swift; sourceTree = "<group>"; };
+		A5217211371AA4CA76F6DD12A46D5E2D /* Pods-GrabNYTimes-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-GrabNYTimes-dummy.m"; sourceTree = "<group>"; };
+		A5A3DB4847E2ADDBAA214A69C644B409 /* Pods-GrabNYTimes-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-GrabNYTimes-umbrella.h"; sourceTree = "<group>"; };
 		A6DB4A14D584C61B1A84FCE0483F34B5 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A99AB25B543DD247CD1FB08F24BF5CAE /* Pods-GrabNYTimes.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-GrabNYTimes.modulemap"; sourceTree = "<group>"; };
 		AAB441A292DF8404DF3DB13A28279253 /* SDWebImageCoder.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImageCoder.h; path = SDWebImage/SDWebImageCoder.h; sourceTree = "<group>"; };
 		AC4B52104EE0A7AE4936E65AB11DC818 /* NVActivityIndicatorAnimationSquareSpin.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NVActivityIndicatorAnimationSquareSpin.swift; path = Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationSquareSpin.swift; sourceTree = "<group>"; };
 		AF78C93D03F39FF30EFC7238888D4452 /* SDWebImageCompat.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDWebImageCompat.m; path = SDWebImage/SDWebImageCompat.m; sourceTree = "<group>"; };
@@ -271,9 +312,10 @@
 		BEE5B33D7C1310689E39F38991AA4CC9 /* UIImageView+HighlightedWebCache.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImageView+HighlightedWebCache.m"; path = "SDWebImage/UIImageView+HighlightedWebCache.m"; sourceTree = "<group>"; };
 		C155E5BB3E14524F54A3CC0F08EFB780 /* NVActivityIndicatorAnimationBallZigZag.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NVActivityIndicatorAnimationBallZigZag.swift; path = Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationBallZigZag.swift; sourceTree = "<group>"; };
 		C5F6DDCFCAC08DBF8A284D5123C19265 /* SDWebImageDownloaderOperation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImageDownloaderOperation.h; path = SDWebImage/SDWebImageDownloaderOperation.h; sourceTree = "<group>"; };
+		C74048B24D766CCD9A721842DEAA7C16 /* Pods-GrabNYTimes.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-GrabNYTimes.release.xcconfig"; sourceTree = "<group>"; };
+		C85D323BD173DD84359B22F932FC0EAF /* Pods-GrabNYTimes-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-GrabNYTimes-acknowledgements.plist"; sourceTree = "<group>"; };
 		CAC6D22C642C038ED12DFFF14956B3F1 /* UIImage+GIF.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+GIF.m"; path = "SDWebImage/UIImage+GIF.m"; sourceTree = "<group>"; };
 		CDD1C6933B468CF3CECF34132DBBF44B /* NVActivityIndicatorAnimationCircleStrokeSpin.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NVActivityIndicatorAnimationCircleStrokeSpin.swift; path = Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationCircleStrokeSpin.swift; sourceTree = "<group>"; };
-		D0AC475EC39E5AAD9A3B5C055846EFAA /* Pods-GrabNYTimes.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-GrabNYTimes.release.xcconfig"; sourceTree = "<group>"; };
 		D0CDF7FADD868CD0193AAAAC06722790 /* NVActivityIndicatorAnimationLineSpinFadeLoader.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NVActivityIndicatorAnimationLineSpinFadeLoader.swift; path = Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationLineSpinFadeLoader.swift; sourceTree = "<group>"; };
 		D48B27ADC33D3DB49C0D7F5E4C2AE6FB /* ReachabilitySwift.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ReachabilitySwift.xcconfig; sourceTree = "<group>"; };
 		D4F367EF21949BF76C6D584798BE8238 /* NVActivityIndicatorAnimationBallRotateChase.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NVActivityIndicatorAnimationBallRotateChase.swift; path = Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationBallRotateChase.swift; sourceTree = "<group>"; };
@@ -287,13 +329,13 @@
 		DF7B6BFA068F7B1391BDF419A6203A53 /* NVActivityIndicatorAnimationBallPulseRise.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NVActivityIndicatorAnimationBallPulseRise.swift; path = Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationBallPulseRise.swift; sourceTree = "<group>"; };
 		E2D03932C7CC311B55E197ED758B7E65 /* NVActivityIndicatorAnimationBallRotate.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NVActivityIndicatorAnimationBallRotate.swift; path = Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationBallRotate.swift; sourceTree = "<group>"; };
 		E7254298F12B4609B3A4E1D9BAFD6775 /* SDAnimatedImageRep.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDAnimatedImageRep.h; path = SDWebImage/SDAnimatedImageRep.h; sourceTree = "<group>"; };
+		EBED99A554DBE929E257FE135E4A28C5 /* Pods-GrabNYTimesTests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-GrabNYTimesTests-resources.sh"; sourceTree = "<group>"; };
 		EC6685907062785561CFFE35C8BBB7C2 /* ImageIO.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ImageIO.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/ImageIO.framework; sourceTree = DEVELOPER_DIR; };
 		ED904B69B651794A0786B03441C38DC4 /* UIImage+GIF.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+GIF.h"; path = "SDWebImage/UIImage+GIF.h"; sourceTree = "<group>"; };
 		EE4A6B73028C6AAF42845D54003D655E /* ReachabilitySwift-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ReachabilitySwift-umbrella.h"; sourceTree = "<group>"; };
 		F0806F1645B963DAEA988105BAF570C1 /* SDWebImage.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = SDWebImage.modulemap; sourceTree = "<group>"; };
 		F4D8EDC0795A5B89F59767B2D10D00A9 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F4F5FF7197E4FB33591A9F9C78015ECB /* Pods-GrabNYTimes-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-GrabNYTimes-acknowledgements.plist"; sourceTree = "<group>"; };
-		F5C41E74696477F42496B4377B163D1B /* Pods-GrabNYTimes-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-GrabNYTimes-resources.sh"; sourceTree = "<group>"; };
+		F93AB81012AF0180186A8B8855F2E06C /* Pods-GrabNYTimesTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-GrabNYTimesTests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		F94CF01EE844A8905477D56ED74EBDC7 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/QuartzCore.framework; sourceTree = DEVELOPER_DIR; };
 		FD1E1ABFE3135D999235E927DF6FF10D /* SDWebImageCompat.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImageCompat.h; path = SDWebImage/SDWebImageCompat.h; sourceTree = "<group>"; };
 		FD7BBAF882E3D00B91BFB60246937FCA /* UIViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = UIViewController.swift; path = Source/UIViewController.swift; sourceTree = "<group>"; };
@@ -324,6 +366,14 @@
 				2662AD77661AA9E91397DF725529A9EF /* Foundation.framework in Frameworks */,
 				92D9A4AB0F85B41D339ADB501B490C5E /* QuartzCore.framework in Frameworks */,
 				EAED9DC9342B1A542C23E231476CFB10 /* UIKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		574257B2829723752880BFA283CF9CD0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B93ED74E31EA40018C0EB58BA4B2521B /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -363,6 +413,24 @@
 				57F2E6D2821F3D8A9C557D3CEA479074 /* iOS */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		2C18832D8A54AA42B3031366BF4608F2 /* Pods-GrabNYTimesTests */ = {
+			isa = PBXGroup;
+			children = (
+				444158437AB16FC67B33365570C8EEA5 /* Info.plist */,
+				52C0181C4FA27C1311A551E14F9DD92E /* Pods-GrabNYTimesTests.modulemap */,
+				F93AB81012AF0180186A8B8855F2E06C /* Pods-GrabNYTimesTests-acknowledgements.markdown */,
+				3CEE924838533C4171A2693C32DB3DB5 /* Pods-GrabNYTimesTests-acknowledgements.plist */,
+				8037758230BC3CECE33A0C2199438D03 /* Pods-GrabNYTimesTests-dummy.m */,
+				9C8DA834EE9839C0BAD822C107199559 /* Pods-GrabNYTimesTests-frameworks.sh */,
+				EBED99A554DBE929E257FE135E4A28C5 /* Pods-GrabNYTimesTests-resources.sh */,
+				2AC334D9ECAA1E5F4D668EBC2A7E1522 /* Pods-GrabNYTimesTests-umbrella.h */,
+				2B9B09DC9295355776B272A11E8E441A /* Pods-GrabNYTimesTests.debug.xcconfig */,
+				3181F58C172E07B853DC15D85F9DB8C6 /* Pods-GrabNYTimesTests.release.xcconfig */,
+			);
+			name = "Pods-GrabNYTimesTests";
+			path = "Target Support Files/Pods-GrabNYTimesTests";
 			sourceTree = "<group>";
 		};
 		3682ED688FD645F5C1F299E407F2E78F /* Support Files */ = {
@@ -479,17 +547,22 @@
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
 				20B56609144CE204DFA8221F742B2D76 /* Frameworks */,
 				F12C0CF38A5654E73EAF0D112E92DFA3 /* Pods */,
-				BDC4CA2D99F46862CDF1B5E7B72AE811 /* Products */,
-				9CAE1B9F63A0ED74A1211A430FE1C722 /* Targets Support Files */,
+				9C2F602C16A5EB0C0AF4647B01C54AB9 /* Products */,
+				AB010DC1FE834491BBEA209A29F69A8E /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
 		};
-		9CAE1B9F63A0ED74A1211A430FE1C722 /* Targets Support Files */ = {
+		9C2F602C16A5EB0C0AF4647B01C54AB9 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B659198AA51922CA8A05C12662363BE0 /* Pods-GrabNYTimes */,
+				1045B8271C3DFF917791B7CA0392626D /* NVActivityIndicatorView.framework */,
+				901348A30A36447FB413F498098FF4E2 /* Pods_GrabNYTimes.framework */,
+				15B801BECD7B4F08E0A4752E7084F236 /* Pods_GrabNYTimesTests.framework */,
+				22C19CF0838BDABEF4DC51985A6BCF71 /* Reachability.framework */,
+				4A7369CB20C7C19DE4941645891BD528 /* SDWebImage.framework */,
+				78B6F4F85868C67137748E1E49A0C231 /* SidebarOverlay.framework */,
 			);
-			name = "Targets Support Files";
+			name = Products;
 			sourceTree = "<group>";
 		};
 		9FC820D746456E8EA56C90D9E8FD8D64 /* Support Files */ = {
@@ -506,34 +579,31 @@
 			path = "../Target Support Files/NVActivityIndicatorView";
 			sourceTree = "<group>";
 		};
-		B659198AA51922CA8A05C12662363BE0 /* Pods-GrabNYTimes */ = {
+		AB010DC1FE834491BBEA209A29F69A8E /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				788E620FD164DD22AF7261136959D64F /* Info.plist */,
-				A99AB25B543DD247CD1FB08F24BF5CAE /* Pods-GrabNYTimes.modulemap */,
-				4A6DC442F92A885582BFFDD8E6262D9D /* Pods-GrabNYTimes-acknowledgements.markdown */,
-				F4F5FF7197E4FB33591A9F9C78015ECB /* Pods-GrabNYTimes-acknowledgements.plist */,
-				7BAC071F891997184C198B6992D825C9 /* Pods-GrabNYTimes-dummy.m */,
-				475D64BB18C5BB091A687597C28E4ED9 /* Pods-GrabNYTimes-frameworks.sh */,
-				F5C41E74696477F42496B4377B163D1B /* Pods-GrabNYTimes-resources.sh */,
-				19D78C839646206AE5E52982638478FE /* Pods-GrabNYTimes-umbrella.h */,
-				2A601C2CD73A2095D672C388B3DDB260 /* Pods-GrabNYTimes.debug.xcconfig */,
-				D0AC475EC39E5AAD9A3B5C055846EFAA /* Pods-GrabNYTimes.release.xcconfig */,
+				CE9E896173C5C7FF02E89BEFAA9D6527 /* Pods-GrabNYTimes */,
+				2C18832D8A54AA42B3031366BF4608F2 /* Pods-GrabNYTimesTests */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		CE9E896173C5C7FF02E89BEFAA9D6527 /* Pods-GrabNYTimes */ = {
+			isa = PBXGroup;
+			children = (
+				13E008059A9205953AF4FB105BA43AD2 /* Info.plist */,
+				31E870DC032F3B516556BBE53BF28C27 /* Pods-GrabNYTimes.modulemap */,
+				54EE3C755DD87CD164D660C46DCC7BA2 /* Pods-GrabNYTimes-acknowledgements.markdown */,
+				C85D323BD173DD84359B22F932FC0EAF /* Pods-GrabNYTimes-acknowledgements.plist */,
+				A5217211371AA4CA76F6DD12A46D5E2D /* Pods-GrabNYTimes-dummy.m */,
+				8BC54C00B9F55C8746516B9DBD2E16B2 /* Pods-GrabNYTimes-frameworks.sh */,
+				9C16A96B5F56E579D4D8E4A44E4B4123 /* Pods-GrabNYTimes-resources.sh */,
+				A5A3DB4847E2ADDBAA214A69C644B409 /* Pods-GrabNYTimes-umbrella.h */,
+				807F8E805835A7280609F3D5604A4E67 /* Pods-GrabNYTimes.debug.xcconfig */,
+				C74048B24D766CCD9A721842DEAA7C16 /* Pods-GrabNYTimes.release.xcconfig */,
 			);
 			name = "Pods-GrabNYTimes";
 			path = "Target Support Files/Pods-GrabNYTimes";
-			sourceTree = "<group>";
-		};
-		BDC4CA2D99F46862CDF1B5E7B72AE811 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				155EAF7D0846C98F62920ED768532DC5 /* NVActivityIndicatorView.framework */,
-				300B0D26126B35744F82ECA5AC3EB2B4 /* Pods_GrabNYTimes.framework */,
-				5502712BFAEBB72C99D5C43D4DB8AB23 /* Reachability.framework */,
-				46F8B7302DF7F0C7EF4CBF9493D632E6 /* SDWebImage.framework */,
-				0B6518EDDE8557B33866A405E4201703 /* SidebarOverlay.framework */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 		E2EE7BA5BE7351D9138ABE35ED3FA5D9 /* Support Files */ = {
@@ -642,6 +712,14 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		48EE52BEAF6663DE25DB78FB33F2A47D /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				861E4B322963330E64455271BC9D69C2 /* Pods-GrabNYTimesTests-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		6995D5DEE924B0A4FFBEA5FD74ABD04C /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
@@ -719,7 +797,7 @@
 			);
 			name = NVActivityIndicatorView;
 			productName = NVActivityIndicatorView;
-			productReference = 155EAF7D0846C98F62920ED768532DC5 /* NVActivityIndicatorView.framework */;
+			productReference = 1045B8271C3DFF917791B7CA0392626D /* NVActivityIndicatorView.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		9B2113D8F2A97C6D86A21E2379916E9A /* SidebarOverlay */ = {
@@ -736,7 +814,7 @@
 			);
 			name = SidebarOverlay;
 			productName = SidebarOverlay;
-			productReference = 0B6518EDDE8557B33866A405E4201703 /* SidebarOverlay.framework */;
+			productReference = 78B6F4F85868C67137748E1E49A0C231 /* SidebarOverlay.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		9E5FD31BD1B6EA4C731ABBF43B54927A /* SDWebImage */ = {
@@ -753,7 +831,7 @@
 			);
 			name = SDWebImage;
 			productName = SDWebImage;
-			productReference = 46F8B7302DF7F0C7EF4CBF9493D632E6 /* SDWebImage.framework */;
+			productReference = 4A7369CB20C7C19DE4941645891BD528 /* SDWebImage.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		AAB889D45D805E068E156CF18FD65637 /* Pods-GrabNYTimes */ = {
@@ -774,7 +852,7 @@
 			);
 			name = "Pods-GrabNYTimes";
 			productName = "Pods-GrabNYTimes";
-			productReference = 300B0D26126B35744F82ECA5AC3EB2B4 /* Pods_GrabNYTimes.framework */;
+			productReference = 901348A30A36447FB413F498098FF4E2 /* Pods_GrabNYTimes.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		E6D62619402EFE05C0858376F273FCE4 /* ReachabilitySwift */ = {
@@ -791,7 +869,28 @@
 			);
 			name = ReachabilitySwift;
 			productName = ReachabilitySwift;
-			productReference = 5502712BFAEBB72C99D5C43D4DB8AB23 /* Reachability.framework */;
+			productReference = 22C19CF0838BDABEF4DC51985A6BCF71 /* Reachability.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		F61DDC3B9FFF4E1954DC54B25B2DF4ED /* Pods-GrabNYTimesTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F2C9AF6C0E43B8DB30B6F8E25A153C72 /* Build configuration list for PBXNativeTarget "Pods-GrabNYTimesTests" */;
+			buildPhases = (
+				F0DF2969F7C21F31F0A12A0A0B04055B /* Sources */,
+				574257B2829723752880BFA283CF9CD0 /* Frameworks */,
+				48EE52BEAF6663DE25DB78FB33F2A47D /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				FF16AA98256DD1266EDA5427EDECAD6C /* PBXTargetDependency */,
+				ECFB61814C00E82517036B18035A5324 /* PBXTargetDependency */,
+				70DFBDA386D3460DDBA6C1E915C77C7C /* PBXTargetDependency */,
+				97B2D09D9DA6FF7DDF96801F973EAD20 /* PBXTargetDependency */,
+			);
+			name = "Pods-GrabNYTimesTests";
+			productName = "Pods-GrabNYTimesTests";
+			productReference = 15B801BECD7B4F08E0A4752E7084F236 /* Pods_GrabNYTimesTests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -811,12 +910,13 @@
 				en,
 			);
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
-			productRefGroup = BDC4CA2D99F46862CDF1B5E7B72AE811 /* Products */;
+			productRefGroup = 9C2F602C16A5EB0C0AF4647B01C54AB9 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
 				123F89F7E8DB3444EAD2F61E835952E2 /* NVActivityIndicatorView */,
 				AAB889D45D805E068E156CF18FD65637 /* Pods-GrabNYTimes */,
+				F61DDC3B9FFF4E1954DC54B25B2DF4ED /* Pods-GrabNYTimesTests */,
 				E6D62619402EFE05C0858376F273FCE4 /* ReachabilitySwift */,
 				9E5FD31BD1B6EA4C731ABBF43B54927A /* SDWebImage */,
 				9B2113D8F2A97C6D86A21E2379916E9A /* SidebarOverlay */,
@@ -933,6 +1033,14 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		F0DF2969F7C21F31F0A12A0A0B04055B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				806AD91917D8E29258CF9CEF8297C610 /* Pods-GrabNYTimesTests-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
@@ -954,11 +1062,35 @@
 			target = 123F89F7E8DB3444EAD2F61E835952E2 /* NVActivityIndicatorView */;
 			targetProxy = B6AF26201F8353F597B10B6ECB5635E4 /* PBXContainerItemProxy */;
 		};
+		70DFBDA386D3460DDBA6C1E915C77C7C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = SDWebImage;
+			target = 9E5FD31BD1B6EA4C731ABBF43B54927A /* SDWebImage */;
+			targetProxy = 9E94E7BD64CE2890BD363C67EECF7E76 /* PBXContainerItemProxy */;
+		};
 		9526461AACDA043CB5FA96A2D281BA74 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = SidebarOverlay;
 			target = 9B2113D8F2A97C6D86A21E2379916E9A /* SidebarOverlay */;
 			targetProxy = 972520450BB42CA9CDD8120B237C9C6B /* PBXContainerItemProxy */;
+		};
+		97B2D09D9DA6FF7DDF96801F973EAD20 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = SidebarOverlay;
+			target = 9B2113D8F2A97C6D86A21E2379916E9A /* SidebarOverlay */;
+			targetProxy = A939E4A0AC3D9FA88D465E69E056AF95 /* PBXContainerItemProxy */;
+		};
+		ECFB61814C00E82517036B18035A5324 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = ReachabilitySwift;
+			target = E6D62619402EFE05C0858376F273FCE4 /* ReachabilitySwift */;
+			targetProxy = 613F1E03B17BA29EBAA8D181B448554B /* PBXContainerItemProxy */;
+		};
+		FF16AA98256DD1266EDA5427EDECAD6C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = NVActivityIndicatorView;
+			target = 123F89F7E8DB3444EAD2F61E835952E2 /* NVActivityIndicatorView */;
+			targetProxy = 6ABC02A283F37F210677ABFBE7B1CB9E /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -993,6 +1125,46 @@
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		086AC1A05D5DEF224368DBE300FFD000 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3181F58C172E07B853DC15D85F9DB8C6 /* Pods-GrabNYTimesTests.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-GrabNYTimesTests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-GrabNYTimesTests/Pods-GrabNYTimesTests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -1036,6 +1208,46 @@
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Release;
+		};
+		2A75C0B0DABAC6C43F59DE999E303A20 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2B9B09DC9295355776B272A11E8E441A /* Pods-GrabNYTimesTests.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-GrabNYTimesTests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-GrabNYTimesTests/Pods-GrabNYTimesTests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
 		};
 		3CAB727DF46A76219BB9A00B0AA39E92 /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -1233,7 +1445,7 @@
 		};
 		5A8E957FA9D921E9858E2176200FD4E3 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = D0AC475EC39E5AAD9A3B5C055846EFAA /* Pods-GrabNYTimes.release.xcconfig */;
+			baseConfigurationReference = C74048B24D766CCD9A721842DEAA7C16 /* Pods-GrabNYTimes.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CLANG_ENABLE_OBJC_WEAK = NO;
@@ -1309,7 +1521,7 @@
 		};
 		89D166D535462A37CCF57281752EECFF /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2A601C2CD73A2095D672C388B3DDB260 /* Pods-GrabNYTimes.debug.xcconfig */;
+			baseConfigurationReference = 807F8E805835A7280609F3D5604A4E67 /* Pods-GrabNYTimes.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CLANG_ENABLE_OBJC_WEAK = NO;
@@ -1489,6 +1701,15 @@
 			buildConfigurations = (
 				A6D81727AFDB3259CAF49CCF1EADC565 /* Debug */,
 				563670D1747A2F71D0965E01A7E5CD64 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F2C9AF6C0E43B8DB30B6F8E25A153C72 /* Build configuration list for PBXNativeTarget "Pods-GrabNYTimesTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2A75C0B0DABAC6C43F59DE999E303A20 /* Debug */,
+				086AC1A05D5DEF224368DBE300FFD000 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
